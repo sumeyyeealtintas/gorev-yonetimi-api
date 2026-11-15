@@ -1,5 +1,7 @@
 # ✅ Görev Yönetimi API
 
+[![Testler](https://github.com/sumeyyeealtintas/gorev-yonetimi-api/actions/workflows/test.yml/badge.svg)](https://github.com/sumeyyeealtintas/gorev-yonetimi-api/actions/workflows/test.yml)
+
 FastAPI ile yazılmış, test edilmiş ve Docker ile paketlenmiş bir REST API. Görevleri oluşturma, listeleme, filtreleme, güncelleme ve silme işlemlerini yapar.
 
 ## 🧰 Teknolojiler
